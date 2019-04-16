@@ -1,0 +1,38 @@
+[{
+  "id": "cxd01",
+   "firstname": "mike",
+   "lastname": "gradolador",
+   "position": "Jr.Software Developer",
+   "age": 23
+}, {
+  "id": "cxd02",
+   "firstname": "newyear",
+   "lastname": "goodbye",
+   "position": "Jr.Software Developer",
+   "age": 26
+}, {
+  "id": "cxd03",
+   "firstname": "buffterfy",
+   "lastname": "indetying",
+   "position": "Jr.Team Leader",
+   "age": 32
+}, {
+  "id": "fxe01",
+   "firstname": "zasar",
+   "lastname": "doff",
+   "position": "Sr.Systems Analyst",
+   "age": 28
+}, {
+  "id": "cxd04",
+   "firstname": "jendy",
+   "lastname": "gadad",
+   "position": "Sr.Software Developer",
+   "age": 28
+},{
+  "id": "cxd05",
+   "firstname": "lolipop",
+   "lastname": "android",
+   "position": "Sr.Automate Tester",
+   "age": 30
+}
+]

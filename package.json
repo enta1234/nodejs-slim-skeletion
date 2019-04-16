@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-slim-skeletion",
+  "version": "1.0.0",
+  "description": "This slim skeleton not for strong projects, Recommend for Mock or Mini Microservice.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enta1234/nodejs-slim-skeletion.git"
+  },
+  "keywords": [
+    "nodejs",
+    "skeleton",
+    "slim-skeleton",
+    "express",
+    "node-mock",
+    "mock",
+    "js"
+  ],
+  "author": "ucode (chantatha.p)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enta1234/nodejs-slim-skeletion/issues"
+  },
+  "homepage": "https://github.com/enta1234/nodejs-slim-skeletion#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
+}
