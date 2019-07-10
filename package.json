@@ -27,7 +27,7 @@
   "homepage": "https://github.com/enta1234/nodejs-slim-skeletion#readme",
   "dependencies": {
     "dotenv": "^7.0.0",
-    "explog": "^1.1.3",
+    "explog": "^1.2.1",
     "express": "^4.16.4"
   }
 }

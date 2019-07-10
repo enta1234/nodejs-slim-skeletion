@@ -4,10 +4,14 @@ require('dotenv').config()
 
 const Express = require('express')
 const Router = require('./routes')
-const explog = require('explog')
 const app = new Express()
 
-app.use(explog())
+// https://www.npmjs.com/package/explog
+const explog = require('explog')
+
+app.use(explog({
+  writeFile: true
+}))
 app.use(Router)
 
 app.listen(process.env.PORT, console.log(`App is running on http://localhost:${process.env.PORT}`))
