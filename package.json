@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-slim-skeletion",
+  "name": "nodejs-slim-skeletion-mock",
   "version": "1.0.0",
   "description": "This slim skeleton not for strong projects, Recommend for Mock or Mini Microservice.",
   "main": "index.js",
